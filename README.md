@@ -23,7 +23,7 @@ Olá, meu nome é Matheus, tenho 28 anos e sou do Rio de Janeiro. Concluí a min
 
 <h2> 💻 Linguagens e Tecnologias </h2>
 
-<div style="display: inline_block  ">
+<div style="display: inline-block  ">
     <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
